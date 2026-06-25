@@ -1,4 +1,4 @@
-# Android device tree for samsung SM-M135F (m13)
+# Android device tree for samsung SM-M135F (m13) from firmware M135FXXSAEYE1 with Android 14 with patches of 2025-05-01
 
 ```
 #
